@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MIHIR_PASHINE 
 - 👀 I’m passionate about software devlopment life cycle.
-- 🌱 I’m currently learning cloud computing and devops.
-- 💞️ Ask me about Linux, Jenkins, Terraform, Docker, and Kubernetes.
+- 🌱 I believe in continuos learning and continuous implementation.
+- 💞️ Ask me about Linux, AWS, CI/CD, Terraform, Docker, and Kubernetes.
 - 📫 You can reach me at mihirpashine1999@gmail.com
 
 <!---
